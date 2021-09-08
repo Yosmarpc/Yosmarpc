@@ -1,7 +1,7 @@
  ¡Hey 👋! Soy yosmarweb 👨🏻‍💻
-  Programming lover
- 📫 Soy desarrollador de JavaScript 
- 👨🏻‍💻 react angular nodejs
+ - Programming lover
+ - 📫 Soy desarrollador de JavaScript 
+ - 👨🏻‍💻 react angular nodejs
  
 <!---
 Yosmarpc/Yosmarpc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
