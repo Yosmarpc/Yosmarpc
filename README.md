@@ -1,5 +1,5 @@
- ¡Hey 👋! ***Soy yosmarweb 👨🏻‍💻
-  Software development ***
+ ¡Hey 👋! **Soy yosmarweb 👨🏻‍💻
+  Software development **
   
  - 🧑‍💻🇻🇪 Soy desarrollador de JavaScript y otras tecnologías
  - 👨🏻‍💻 react angular nodejs
