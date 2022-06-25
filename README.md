@@ -1,4 +1,4 @@
- ¡Hey 👋! **Soy yosmarweb 👨🏻‍💻
+ ¡Hey 👋! **Soy Yosmar Hinestroza 👨🏻‍💻
   Software development **
   
  - 🧑 Soy desarrollador de JavaScript y otras tecnologías
